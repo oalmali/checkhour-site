@@ -1,8 +1,9 @@
 module.exports = {
+  pathPrefix: "checkhour",
   siteMetadata: {
-    name: `Fabian Schultz`,
-    title: `Gatsby Deck`,
-    date: `July 30, 2018`,
+    name: `Ömer Almali`,
+    title: `Checkhour`,
+    date: `04.02.2020`,
   },
   plugins: [
     `gatsby-plugin-layout`,
